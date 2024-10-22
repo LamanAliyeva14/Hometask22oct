@@ -1,0 +1,15 @@
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/bin/Debug/net6.0/Big O notation, searching & sorting algo
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/bin/Debug/net6.0/Big O notation, searching & sorting algo.deps.json
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/bin/Debug/net6.0/Big O notation, searching & sorting algo.runtimeconfig.json
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/bin/Debug/net6.0/Big O notation, searching & sorting algo.dll
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/bin/Debug/net6.0/Big O notation, searching & sorting algo.pdb
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.csproj.AssemblyReference.cache
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.AssemblyInfoInputs.cache
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.AssemblyInfo.cs
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.csproj.CoreCompileInputs.cache
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.dll
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/refint/Big O notation, searching & sorting algo.dll
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.pdb
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/Big O notation, searching & sorting algo.genruntimeconfig.cache
+/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/obj/Debug/net6.0/ref/Big O notation, searching & sorting algo.dll

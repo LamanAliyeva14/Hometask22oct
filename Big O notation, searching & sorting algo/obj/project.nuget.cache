@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oga7UqahbAAT3JT/vS0/Ej937ANHLJ4eBBhK/Mqjv9HNkio5SPLT6+240+snfFKgcGc/wLtcegoO+Yf00Rr4Pg==",
+  "success": true,
+  "projectFilePath": "/Users/limaaliyeva/Desktop/pb202/Projects/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo/Big O notation, searching & sorting algo.csproj",
+  "expectedPackageFiles": [
+    "/Users/limaaliyeva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

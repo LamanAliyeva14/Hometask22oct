@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{22044C1B-D358-437A-B0F4-6E5CB2CFAED0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Big_220O_220notation_22C_220searching_220_226_220sorting_220algo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Big O notation, searching &amp; sorting algo/Program.cs">
+    <Files>
+      <File FileName="Big O notation, searching &amp; sorting algo/Program.cs" Line="61" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Big O notation, searching &amp; sorting algo" expanded="True">
+            <Node name="Big O notation, searching &amp; sorting algo">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
